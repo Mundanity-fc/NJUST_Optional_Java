@@ -4,6 +4,6 @@ public class Administrator {
 	String name;
 	String password;
 	public void show() {
-		System.out.println("ĞÕÃû£º"+name+"£¬ÃÜÂë£º"+password);
+		System.out.println("å§“åï¼š"+name+"ï¼Œå¯†ç ï¼š"+password);
 	}
 }
