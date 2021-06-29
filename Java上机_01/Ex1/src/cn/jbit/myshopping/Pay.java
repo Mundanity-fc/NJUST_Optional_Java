@@ -10,6 +10,6 @@ public class Pay {
 		int padNo=1;
 		double discount=0.8;
 		double finalPay=discount*(shirtPrice*shirtNo+shoePrice*shoeNo+padPrice*padNo);
-		System.out.println("消费总金额："+finalPay);
+		System.out.println("娑堣垂鎬婚噾棰濓細"+finalPay);
 	}
 }
